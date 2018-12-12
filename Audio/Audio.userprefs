@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SavWav.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MicrophoneListen.cs" Line="18" Column="70" />
+      <File FileName="Assets/Scripts/Tremelo.cs" Line="39" Column="38" />
+      <File FileName="Assets/Scripts/Proximity.cs" Line="22" Column="79" />
+      <File FileName="Assets/Scripts/ChangePostProfile.cs" Line="37" Column="4" />
+      <File FileName="Assets/Scripts/MP.cs" Line="30" Column="44" />
+      <File FileName="Assets/Scripts/StoreAudio.cs" Line="31" Column="6" />
+      <File FileName="Assets/Scripts/SavWav.cs" Line="63" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
