@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+// Calvin Rien, 2012, Github Repository https://gist.github.com/darktable/2317063
+using System;
 using System.IO;
 using UnityEngine;
 using System.Collections.Generic;
